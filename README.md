@@ -7,5 +7,5 @@ This is nFactorial (n!) Incubator homework.
 - Node.js
 - MongoDB
 
-23 June 2022 (23.06.22)
+23 June 2022.
 Almaty, Kazakhstan.
